@@ -1,0 +1,13 @@
+ nguyen van lam 	 12.00 
+ nguyen thi mai 	 23.00 
+ hoang thi tam 	 99.00 
+ nguyen van cau  	 99.00 
+ hoang van thanh 	 99.00 
+ le thi duc 	 99.00 
+ nguyen van lam 	 99.00 
+ nguyen thi mai 	 99.00 
+ nguyen van lam  	 12.00 
+ le thi duc  	 99.00 
+ le thi duc 	 99.00 
+ le thi duc 	 +99.00 
+ le thi duc 	 +99.00 
