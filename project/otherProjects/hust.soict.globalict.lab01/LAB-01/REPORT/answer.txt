@@ -1,0 +1,8 @@
+Exercise 6.1:
+- If use choose cancel, the result (output ) will be "NO"
+-To customize the option of user , only "yes" and "no" or "i do " and "i do not"
+we pass array of Object as the last argument to the showConfirmDialog
+ Object[] option = { "I do", "I do not" }; or Object[] option = { "yes", "No" }
+ int option =JOptionPane.showConfirmDialog(null,
+         "Do you want to change to first class tiket","comfirmation",
+         JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE, null, option, option[0]);
